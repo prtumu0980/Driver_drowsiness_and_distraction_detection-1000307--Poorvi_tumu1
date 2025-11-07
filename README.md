@@ -78,4 +78,5 @@ Streamlit run app.py
 
 Open the ngrok link in your browser and start testing, using either your webcam or sample images. Conclusion: The Driver Drowsiness Detection system is only one such example of deep learning put to use for road safety. This translates to an accuracy of 63.27%, which is a good starting point for real-world drowsiness monitoring systems. Future Improvements Real-time detection by tracking facial landmarks. Larger, more diverse datasets. Integration with vehicle systems for alert sound notifications.
 
-Screenshot 2025-10-31 204905
+<img width="362" height="622" alt="Screenshot 2025-10-31 204905" src="https://github.com/user-attachments/assets/982cbf6d-ccd0-4bad-8391-1873618eadf3" />
+
